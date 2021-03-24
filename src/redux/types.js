@@ -1,0 +1,8 @@
+export const CREATE_NOTE = 'NOTE/CREATE_NOTE'
+export const SEARCH_NOTE = 'NOTE/SEARCH_NOTE'
+export const CLEAR_SEARCH = 'NOTE/CLEAR_SEARCH'
+export const DELETE_NOTE = 'NOTE/DELETE_NOTE'
+export const EDIT_NOTE = 'NOTE/EDIT_NOTE'
+export const NOTE_ID = 'NOTE/NOTE_ID'
+export const SHOW_ALERT = 'APP/SHOW_ALERT'
+export const HIDE_ALERT = 'APP/HIDE_ALERT'
